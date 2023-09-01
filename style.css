@@ -158,7 +158,7 @@ form {
   margin: auto;
 }
 
-div.hello {}
+
 
 .wall-light-shadow {
   background: linear-gradient(var(--lamp-light-color), var(--main-bg-color) 30%);
